@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.elo7.com.br/product/zoom/189655E/banner-batman-festa.jpg" group-title="ODIA",OMM
+https://4tvstream.in/geeta/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://claquetes.files.wordpress.com/2012/05/novo-pc3b4ster.jpg" group-title="ODIA",cinema
+https://4tvstream.in/cinema/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.writeups.org/wp-content/uploads/Banner-DC-Comics-Batman.jpg" group-title="odia",haalchal
+https://4tvstream.in/halchal/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="ODIA",EKAMRA CYNEMA
+https://4tvstream.in/Ekamra_Cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hadeed " tvg-logo="https://image.tmdb.org/t/p/original/qPlufmNrGlXI36t7TzfRSaexQ4H.jpg" group-title="ODIA",BIOSCOPE
+https://4tvstream.in/bioscope/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hamati Bithibini" tvg-logo="https://api.fastocloud.com/install/assets/unknown_channel.png" group-title="ODIA",CITY MUSIC
+https://4tvstream.in/oneekamra/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.fastocloud.com/install/assets/unknown_channel.png" group-title="ODIA",ONE PASCHIMA
+http://ekamra.livebox.co.in/sargamhls/sargam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Haram 4 " tvg-logo="https://snoidcdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="ODIA",EKAMRA BHARAT ODIA
+http://ekamra.livebox.co.in/raftarodiahls/raftarodia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hasal Kheer " tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="ODIA",PARAMATMA
+http://ekamra.livebox.co.in/paramatmahls/paramatma.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hassan Bokloz " tvg-logo="https://image.tmdb.org/t/p/original/m7FIYM3Vuxt350n0xUbXmyw5jLk.jpg" group-title="ODIA",MAHAK TV
+http://ekamra.livebox.co.in/mahaktvhls/mahaktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hassan W Bokloz " tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png" group-title="HINDI",EKAMRA S NEWS
+http://ekamra.livebox.co.in/khabara24x7hls/khabara24x7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hatoli Ragel " tvg-logo="https://sbhplecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="ODIA",JATRA
+http://ekamra.livebox.co.in/jatrahls/jatra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hayaty Mebahdela " tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="ODIA",NILACHAKRA
+http://ekamra.livebox.co.in/ekamranilachakrahls/ekamranilachakra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hadeed " tvg-logo="https://snoidcdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="ODIA",EKAMRA MUSIC
+http://ekamra.livebox.co.in/ekamramusichls/ekamramusic.m3u8
+
+
